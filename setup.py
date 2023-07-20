@@ -34,7 +34,7 @@ setup(
 		'Application Framework :: Liquirizia :: Mailer :: AWS :: SES',
 	],
 	install_requires=[
-		'Liquirizia.Mailer@git+https://github.com/team-of-mine-labs/Liquirizia.Mailer.git',
+		'Liquirizia.Mailer@git+https://github.com/yong5eon/Liquirizia.Mailer.git',
 		'boto3>=1.18.12',
 	],
 	python_requires='>=3.8'
